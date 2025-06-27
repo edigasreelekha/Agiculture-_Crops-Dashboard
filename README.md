@@ -38,7 +38,7 @@ The Power BI dashboards provide insights into:
 * Punjab is the overwhelming leader in both Wheat Yield and overall Wheat Production and Area, emphasizing its critical role as the "breadbasket" for wheat.
 * Wheat Production and Land Area show a strong, consistent upward trend over the decades, similar to rice, signifying a robust and expanding wheat sector.
 
-![Groundnuts Production Deep Dive](https://github.com/edigasreelekha/Agiculture-_Crops-Dashboard/blob/)
+![Groundnuts Production Deep Dive](https://github.com/edigasreelekha/Agiculture-_Crops-Dashboard/blob/main/Grounnuts.png)
 
 * Gujarat and Andhra Pradesh are the primary states for Groundnuts Production and Area, while Tamil Nadu leads in Groundnuts Yield.
 * Groundnuts production shows more volatility over time compared to rice and wheat, with a peak around 1990 followed by fluctuations, suggesting less stable growth.
